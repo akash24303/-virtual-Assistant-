@@ -1,6 +1,7 @@
-# Virtual Assistant Akash 🤖
+# Virtual Assistant 🤖
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://virtual-assistant-akash.netlify.app)
+### 🚀 Live Demo
+https://virtual-assistant-akash.netlify.app
 
 AI-powered Virtual Assistant built with React, Node.js & Google Gemini API.
 
